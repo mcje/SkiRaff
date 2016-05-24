@@ -23,7 +23,7 @@ Alexander Brandborg
 
 Arash Michael Sami Kjær
 
-Mikael Vind Mikkelsen 
+Mikael Vind Mikkelsen (mvmi12@student.aau.dk)
 
 # Installation
 N/A
