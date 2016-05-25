@@ -1,0 +1,13 @@
+Python 3.4.3+ (default, Oct 14 2015, 16:03:50) 
+[GCC 5.2.1 20151010] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> >>> >>> >>> >>> class():
+  File "<stdin>", line 1
+    class():
+         ^
+SyntaxError: invalid syntax
+>>> class MockPred():
+... 	pass
+... 
+>>> p = MockPred()
+>>> Report(True, p, ['t1', 't2'], [{'a':1, 'b':2},{'a':2, 'b':3},{'a':3, 'b':4}])
