@@ -5,8 +5,6 @@ SkiRaff is a testing framework for ETLs that provide a series of tools. It is me
 
 Its main functionality is that it allows users to make assertions regarding a data warehouse populated by an ETL. This is done through the Predicates found in /SkiRaff/predicates/. With these predicates a user can cover the most common functional tests. Furthermore SkiRaff also provides a way for users of pygrametl to dynamically swap out hardcoded data sources and data warehouses from their ETL programs. This allows for users to provide test data sources and data warehouses for their tests more easily. This is done with the DWPopulator found in /SkiRaff/dw_populator.py
 
-# Example
-N/A
 
 # Motivation
 We found a lack in specialized software for testing ETL systems. Especially non-GUI based systems, and as such decided to create one ourselves. We decided to go for the predicate approach as we found that there was a common set of potential bugs people usually had when programming ETLs. Bugs such as duplicate rows, dropped row, referential integerity, etc. These errors often occur for ETL systems as large amounts of data is usually handled, and that developers therefor doesn't wish to check for these during the Load stage.
@@ -25,11 +23,6 @@ Arash Michael Sami Kjær (ams13@student.aau.dk)
 
 Mikael Vind Mikkelsen (mvmi12@student.aau.dk)
 
-# Installation
-N/A
-
-# License
-N/A
 
 
 
