@@ -21,9 +21,9 @@ Mathias Claus Jensen (mcje13@student.aau.dk)
 
 Alexander Brandborg
 
-Arash Michael Sami Kjær
+Arash Michael Sami Kjær (ams13@student.aau.dk)
 
-Mikael Vind Mikkelsen 
+Mikael Vind Mikkelsen (mvmi12@student.aau.dk)
 
 # Installation
 N/A
