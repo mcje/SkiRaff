@@ -19,7 +19,7 @@ Mathias Claus Jensen (mcje13@student.aau.dk)
 
 Alexander Brandborg (abran13@student.aau.dk)
 
-Arash Michael Sami Kjær (ams13@student.aau.dk)
+Arash Michael Sami Kjær (arashkjr@gmail.com)
 
 Mikael Vind Mikkelsen (mvmi12@student.aau.dk)
 
