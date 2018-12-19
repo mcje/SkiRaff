@@ -17,7 +17,7 @@ As this repository is the result of a group project for d608f16 at Aalborg Unive
 
 Mathias Claus Jensen (mcje13@student.aau.dk)
 
-Alexander Brandborg (abran13@student.aau.dk)
+Alexander Brandborg (alexander.brandborg@hotmail.com)
 
 Arash Michael Sami Kjær (arashkjr@gmail.com)
 
